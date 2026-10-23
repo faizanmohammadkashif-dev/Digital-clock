@@ -1,0 +1,18 @@
+body{
+   background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw-QGEwA_4RoGDQfRzKkQ9e7jALFdV6rhtbgY32T3wqQ&s=10); 
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+div{
+   padding: 30px;
+   width: 800px;
+   margin: 150px auto;
+   text-align: center;
+   color:white;
+   font-size: 40px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   background-color: rgba(229, 217, 217, 0.276); 
+   backdrop-filter: blur(10px);
+   border-radius: 20px;
+}
